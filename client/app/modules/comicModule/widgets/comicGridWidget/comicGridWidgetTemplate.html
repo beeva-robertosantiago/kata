@@ -1,0 +1,61 @@
+<div class="detailDiv">
+  <h4>{{title}} <span class="badge numComicsNumber">{{comicGridCtrl.gridData.length}}</span><span ng-if="listType == 'myComics'" class="addComicIcon cursorPointer" data-toggle="modal" data-target="#addComic"><i class="glyphicon glyphicon-shopping-cart"></i></span></h4>
+</div>
+<div ng-switch on="listType">
+  <div ng-switch-when="marvelComics">
+    <div id="table-wrapper">
+      <div id="table-scroll">
+        <table tr-ng-grid="" items="comicGridCtrl.gridData" selection-mode="MultiRow" current-page="false" selected-items="comicGridCtrl.mySelectedItems">
+          <thead>
+              <tr>
+                  <th field-name="title" display-name="Título" enable-filtering="false" display-align="left" enable-sorting="true"></th>
+                  <th field-name="salesDate" enable-filtering="false" display-name="F. Venta" display-align="center" display-format="date:'shortDate'"></th>
+                  <th field-name="price" display-name="Precio" enable-filtering="false" display-align="center" display-format="uppercase"></th>
+                  <th field-name="pageCount" display-name="Nº Páginas" enable-filtering="false" display-align="center"></th>
+              </tr>
+          </thead>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div ng-switch-when="myComics">
+    <div id="table-wrapper">
+      <div id="table-scroll">
+        <table tr-ng-grid="" items="comicGridCtrl.gridData" selection-mode="MultiRow" current-page="false" selected-items="comicGridCtrl.mySelectedItems">
+          <thead>
+              <tr>
+                  <th field-name="title" display-name="Título" enable-filtering="false" display-align="left" enable-sorting="true"></th>
+                  <th field-name="buyDate" enable-filtering="false" display-name="F. Compra" display-align="center" display-format="date:'shortDate'"></th>
+                  <th field-name="price" display-name="Precio" enable-filtering="false" display-align="center" display-format="uppercase"></th>
+                  <th field-name="pageCount" display-name="Nº Páginas" enable-filtering="false" display-align="center" display-align="center"></th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td>
+                      <span class="trashItem"><i class="glyphicon glyphicon-trash cursorPointer" ng-click="deleteItem(gridItem)"></i></span>
+                  </td>
+              </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div ng-switch-when="buyComics">
+    <div id="table-wrapper">
+      <div id="table-scroll">
+        <table tr-ng-grid="" items="comicGridCtrl.gridData" selection-mode="MultiRow" current-page="false" selected-items="comicGridCtrl.mySelectedItems">
+          <thead>
+              <tr>
+                  <th field-name="title" display-name="Título" enable-filtering="false" display-align="left" enable-sorting="true"></th>
+                  <th field-name="salesDate" enable-filtering="false" display-name="F. Venta" display-align="center" display-format="date:'shortDate'"></th>
+                  <th field-name="price" display-name="Precio" enable-filtering="false" display-align="center" display-format="uppercase"></th>
+                  <th field-name="pageCount" display-name="Nº Páginas" enable-filtering="false" display-align="center"></th>
+              </tr>
+          </thead>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+

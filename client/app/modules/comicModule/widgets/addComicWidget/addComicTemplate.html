@@ -1,0 +1,30 @@
+<!--MESSAGING MODAL-->
+<div class="modal fade overflow_hidden" id="addComic" tabindex="-1" role="dialog" aria-labelledby="modal" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"
+					aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Añadir Comic</h4>
+			</div>
+			
+			<div class="modal-body">
+				<comic-grid-widget title="addComicModel.gridTitle" list-type="addComicModel.listType" comic-selected="comicToAdd"></comic-grid-widget>
+			</div>
+			
+			<div class="modal-footer">
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<button type="button" class="btn btn-xlg btn-default font18 fullWidth" data-dismiss="modal">
+						<span class="font12">Cancelar</span>
+					</button>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<button type="button" data-dismiss="modal" ng-click="addComicToMyList(comicToAdd)" class="btn btn-xlg btn-bbva-2 font18 fullWidth">
+						<span class="font12">Añadir Comic</span>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--END MESSAGIN MODAL-->

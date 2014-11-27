@@ -1,0 +1,77 @@
+  <div class="block fullWidth">
+    <div class="form-horizontal min_height265">
+      <div class="fullWidth detailDiv">
+        <h4>Detalle {{selectedComic.title}}</h4>
+      </div>
+      <div class="margin-top-10px">
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <div class="form-group">
+           <label for="title" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Título</label>
+            <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+              <input type="text" placeholder="Título del comic" ng-model="selectedComic.title"
+              class="form-control cursorAuto" name="title" ng-disabled="comicDetailCtrl.disabled">
+            </div>
+        </div>
+        <div class="form-group">
+           <label for="pageCount" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Número de páginas</label>
+            <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+              <input type="text" placeholder="Número de páginas" ng-model="selectedComic.pageCount"
+              class="form-control cursorAuto" name="pageCount" ng-disabled="comicDetailCtrl.disabled">
+            </div>
+        </div>
+        <div ng-if="!isMyComics">
+          <div class="form-group">
+             <label for="salesDate" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Fecha de venta</label>
+              <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+               <input type="text" class="form-control cursorAuto" placeholder="Fecha de venta" ng-model="selectedComic.salesDate" ng-disabled="comicDetailCtrl.disabled" bs-datepicker/>
+              </div>
+          </div>
+          <div class="form-group">
+             <label for="salesTime" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Hora de venta</label>
+              <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <input type="text" class="form-control cursorAuto" placeholder="Hora de venta" ng-model="selectedComic.salesDate" data-time-format="HH:mm" data-length="1" data-minute-step="1" data-arrow-behavior="picker" ng-disabled="comicDetailCtrl.disabled" bs-timepicker/>
+              </div>
+          </div>
+        </div>
+        <div ng-if="isMyComics">
+          <div class="form-group">
+             <label for="buyDate" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Fecha de compra</label>
+              <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <input type="text" class="form-control cursorAuto" placeholder="Fecha de compra" ng-model="selectedComic.buyDate" ng-disabled="comicDetailCtrl.disabled" bs-datepicker>
+              </div>
+          </div>
+          <div class="form-group">
+             <label for="buyTime" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Hora de compra</label>
+              <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <input type="text" class="form-control cursorAuto" placeholder="Hora de compra" ng-model="selectedComic.buyDate" data-time-format="HH:mm" data-length="1" data-minute-step="1" data-arrow-behavior="picker" ng-disabled="comicDetailCtrl.disabled" bs-timepicker>
+              </div>
+          </div>
+        </div>
+        <div class="form-group">
+           <label for="price" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Precio</label>
+            <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+              <input type="text" placeholder="Precio" ng-model="selectedComic.price"
+              class="form-control cursorAuto" name="price" ng-disabled="comicDetailCtrl.disabled">
+            </div>
+        </div>
+        <div class="form-group">
+           <label for="series" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Series</label>
+            <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+              <input type="text" placeholder="Series" ng-model="selectedComic.series"
+              class="form-control cursorAuto" name="series" ng-disabled="comicDetailCtrl.disabled">
+            </div>
+        </div>
+        
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+         <div class="form-group">
+           <label for="description" class="col-xs-12 col-sm-3 col-md-3 col-lg-3" translate>Descripción</label>
+            <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+              <textarea placeholder="Descripción" ng-model="selectedComic.description"
+              class="form-control cursorAuto descriptionTxt" name="description" ng-disabled="comicDetailCtrl.disabled"></textarea>
+            </div>
+        </div>
+      </div>   
+      </div>             
+    </div>
+  </div>

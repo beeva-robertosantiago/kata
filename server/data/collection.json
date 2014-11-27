@@ -1,0 +1,619 @@
+[
+	{
+		"idComic": 44206,
+		"title": "Thor: God of Thunder (2012) #2",
+		"description": "With his past, present, and future at stake, Thor must hurry to uncover the grisly secrets behind the unfathomable horrors of the God Butcher—before it’s too late!\n",
+		"pageCount": 32,
+		"buyDate": "2014-10-26T03:44:20+0100",
+		"salesDate": "2012-11-28T06:00:00+0100",
+		"series": "Thor: God of Thunder (2012 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 5,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/44206/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+					"name": "Jason Aaron",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+					"name": "Chris Eliopoulos",
+					"role": "letterer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+					"name": "Esad Ribic",
+					"role": "artist (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/8924",
+					"name": "Lauren Sankovitch",
+					"role": "editor"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11561",
+					"name": "Ive Svorcina",
+					"role": "colorist"
+				}
+			],
+			"returned": 5
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/44206/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+					"name": "Thor"
+				}
+			],
+			"returned": 1
+		},
+		"id": 8
+	},
+	{
+		"idComic": 42522,
+		"title": "Wolverine (2010) #304 (Avengers Art Appreciation Variant)",
+		"description": "&bull; Final Issue In Jason Aaron&rsquo;s Acclaimed Run!\r\n&bull; The Tables Turn As Wolverine Comes After Sabretooth\r\n&bull; Guest-Starring Mystique And A Host Of Marvel U Villains\r\n",
+		"pageCount": 32,
+		"buyDate": "2014-10-26T03:44:22+0100",
+		"salesDate": "2012-04-11T06:00:00+0200",
+		"series": "Wolverine (2010 - 2012)",
+		"price": 3.99,
+		"creators": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/42522/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+					"name": "Gurihiru",
+					"role": "Penciller"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+					"name": "Jason Aaron",
+					"role": "writer"
+				}
+			],
+			"returned": 2
+		},
+		"characters": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/42522/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+					"name": "Avengers"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+					"name": "Wolverine"
+				}
+			],
+			"returned": 2
+		},
+		"id": 9
+	},
+	{
+		"idComic": 50388,
+		"title": "Hulk (2014) #1 (Bagley Variant)",
+		"description": "Following the shocking events of last month’s INDESTRUCTIBLE HULK finale, Bruce Banner lies at death’s door! If he survives, it WON’T be as the Bruce Banner we’ve known! How will the Hulk wreak vengeance on Banner’s assailant? How CAN he?",
+		"pageCount": 32,
+		"buyDate": "2014-10-27T21:43:29+0100",
+		"salesDate": "2014-04-16T06:00:00+0200",
+		"series": "Hulk (2014 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+					"name": "Mark Bagley",
+					"role": "penciller (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+					"name": "Mark Waid",
+					"role": "writer"
+				}
+			],
+			"returned": 2
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+					"name": "Hulk"
+				}
+			],
+			"returned": 1
+		},
+		"id": 10
+	},
+	{
+		"idComic": 43331,
+		"title": "Uncanny Avengers (2012) #9",
+		"description": "Ragnarök Now continues!\n• A team divided. The Apocalypse Twins triumphant.\n• Wolverine discovers The Midnight City and soon wishes he hadn’t.\n• The Horsemen of Death shatter the Avengers body and soul!\n",
+		"pageCount": 32,
+		"buyDate": "2014-10-27T21:44:28+0100",
+		"salesDate": "2013-06-19T06:00:00+0200",
+		"series": "Uncanny Avengers (2012 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43331/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+					"name": "Daniel Acuna",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+					"name": "John Cassaday",
+					"role": "penciler (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+					"name": "Rick Remender",
+					"role": "writer"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43331/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+					"name": "Wolverine"
+				}
+			],
+			"returned": 1
+		},
+		"id": 11
+	},
+	{
+		"id": 12,
+		"title": "All-New X-Men (2012) #31",
+		"description": "ICEMAN UNLEASHED! Young Bobby Drake takes to the offensive! For someone whoâ€™s said she doesnâ€™t find him particularly pleasant to be around, Laura seems to have taken an odd interest in Warren.\n\n",
+		"pageCount": 32,
+		"salesDate": "2014-08-27T04:00:00.000Z",
+		"series": "All-New X-Men (2012 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/48534/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+					"name": "Mahmud Asrar",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+					"name": "Brian Michael Bendis",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+					"name": "Stuart Immonen",
+					"role": "penciller (cover)"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/48534/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+					"name": "X-Men"
+				}
+			],
+			"returned": 1
+		},
+		"buyDate": "2014-11-24T01:11:21.854Z"
+	},
+	{
+		"id": 13,
+		"title": "Spider-Men (2012) #2",
+		"description": "Peter Parker and Miles Morales explore their strange connection in this reality-bending crossover where the Amazing Spider-Man meets the Ultimate Spider-Man.\n",
+		"pageCount": 32,
+		"salesDate": "2012-06-27T04:00:00.000Z",
+		"series": "Spider-Men (2012)",
+		"price": 3.99,
+		"creators": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/42578/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+					"name": "Brian Michael Bendis",
+					"role": "Writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+					"name": "Sara Pichelli",
+					"role": "artist"
+				}
+			],
+			"returned": 2
+		},
+		"characters": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/42578/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+					"name": "Spider-Man"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+					"name": "Spider-Man (Miles Morales)"
+				}
+			],
+			"returned": 2
+		},
+		"buyDate": "2014-11-24T01:44:55.439Z"
+	},
+	{
+		"id": 14,
+		"title": "Captain America and... (2012) #633",
+		"description": "The Hybrid Queen awakens—in a big way—and only Cap, Hawkeye, and Stegron stand in her way! And whose side is the mysterious Kashmir Vennema on?\n",
+		"pageCount": 32,
+		"salesDate": "2012-06-27T04:00:00.000Z",
+		"series": "Captain America and... (2012)",
+		"price": 2.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/40530/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/4994",
+					"name": "Kalman Andrasofszky",
+					"role": "penciller (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+					"name": "Cullen Bunn",
+					"role": "Writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+					"name": "Barry Kitson",
+					"role": "artist"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/40530/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+					"name": "Captain America"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+					"name": "Iron Man"
+				}
+			],
+			"returned": 2
+		},
+		"buyDate": "2014-11-24T01:49:30.454Z"
+	},
+	{
+		"id": 15,
+		"title": "Avengers Vs. X-Men (2012) #6",
+		"description": "<ul><li> Jonathan Hickman joins superstar artist Olivier Coipel (SIEGE) to launch Act Two of the biggest Marvel event of the year!</li><li> What is Pax Utopia?</li><li> The Phoenix has come to Earth, and everything changes...</li><li> And the Scarlet Witch enters the fray!</li><ul>",
+		"pageCount": 48,
+		"salesDate": "2012-06-20T04:00:00.000Z",
+		"series": "Avengers Vs. X-Men (2012)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/41189/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+					"name": "Jim Cheung",
+					"role": "penciller (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+					"name": "Olivier Coipel",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+					"name": "Jonathan Hickman",
+					"role": "writer"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 4,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/41189/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+					"name": "Colossus"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+					"name": "Cyclops"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009415",
+					"name": "Magik (Illyana Rasputin)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+					"name": "X-Men"
+				}
+			],
+			"returned": 4
+		},
+		"buyDate": "2014-11-24T01:53:26.812Z"
+	},
+	{
+		"id": 16,
+		"title": "Avengers Assemble (2012) #1",
+		"description": "• The Avengers Versus The *Brand-New* Zodiac!\n• One Of The Greatest Avengers Villains Of All Time Gets Reinvented For The \nModern Age Just In Time For The Blockbuster Movie Event Of The Summer!\n• A Perfect Jumping-On Point Featuring The Cast Of The Summer Blockbuster\nBut In Marvel Universe Continuity!\n",
+		"pageCount": 32,
+		"salesDate": "2012-03-14T04:00:00.000Z",
+		"series": "Avengers Assemble (2012 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 0,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/41358/creators",
+			"items": [],
+			"returned": 0
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/41358/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+					"name": "Hulk"
+				}
+			],
+			"returned": 1
+		},
+		"buyDate": "2014-11-24T01:54:17.007Z"
+	},
+	{
+		"id": 17,
+		"title": "Iron Man (2013) #258.3",
+		"description": "\r\n\r\n<ul><li>Micheline. Layton. Two voices that defined Iron Man come together to tell the untold story of his most dire hour &ndash; Armor Wars 2!</li></ul>",
+		"pageCount": 32,
+		"salesDate": "2013-05-22T04:00:00.000Z",
+		"series": "Iron Man (2013)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/36420/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+					"name": "Bob Layton",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+					"name": "David Michelinie",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/6588",
+					"name": "David Ross",
+					"role": "penciler (cover)"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/36420/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+					"name": "Iron Man"
+				}
+			],
+			"returned": 1
+		},
+		"buyDate": "2014-11-24T01:55:36.674Z"
+	},
+	{
+		"id": 18,
+		"title": "Wolverine (2010) #312 (Tbd Artist Variant)",
+		"description": "<ul><li>Sabretooth is back &ndash; but which one is the real one?</li><li>Where has Sabretooth been and whose side is he on this time?</li><li>The identity of the red-headed woman who came to Wolverine&rsquo;s rescue is revealed!</li></ul>",
+		"pageCount": 32,
+		"salesDate": "2012-08-22T04:00:00.000Z",
+		"series": "Wolverine (2010 - 2012)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43197/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+					"name": "Simone Bianchi",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11559",
+					"name": "Jeff Scott Campbell",
+					"role": "penciller (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+					"name": "Jeph Loeb",
+					"role": "writer"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43197/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+					"name": "Sabretooth"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+					"name": "Wolverine"
+				}
+			],
+			"returned": 2
+		},
+		"buyDate": "2014-11-24T01:58:33.164Z"
+	},
+	{
+		"id": 19,
+		"title": "Astonishing X-Men (2004) #51",
+		"description": "The issue everyone has been talking about! The unforgettable wedding of Northstar and Kyle Jinadu! But will their path to wedded matrimony in New York City be smooth or are there hidden dangers around the corner?\n",
+		"pageCount": 32,
+		"salesDate": "2012-06-20T04:00:00.000Z",
+		"series": "Astonishing X-Men (2004 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/40803/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/9047",
+					"name": "Marjorie Liu",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+					"name": "Mike Perkins",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+					"name": "Dustin Weaver",
+					"role": "penciller (cover)"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 9,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/40803/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+					"name": "Alpha Flight"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+					"name": "Archangel"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+					"name": "Beast"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+					"name": "Iceman"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+					"name": "Kitty Pryde"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009476",
+					"name": "Northstar"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+					"name": "Storm"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+					"name": "Wolverine"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+					"name": "X-Men"
+				}
+			],
+			"returned": 9
+		},
+		"buyDate": "2014-11-24T01:58:49.767Z"
+	},
+	{
+		"id": 20,
+		"title": "A+X (2012) #1",
+		"description": "• Spinning directly out of AVX!\n• Like AVX: VS., this book brings you two stories every month by the industry’s top creators!\n• This issue features a Wolverine/Hulk story by Jeph Loeb (WOLVERINE) and Hulk-legend Dale Keown and a Captain America/Cable story by Dan Slott (AMAZING SPIDER-MAN) and Ron Garney (WOLVERINE)!\n",
+		"pageCount": 32,
+		"salesDate": "2012-10-31T04:00:00.000Z",
+		"series": "A+X (2012 - Present)",
+		"price": 3.99,
+		"creators": {
+			"available": 6,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43488/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+					"name": "Warren Ellis",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+					"name": "Jeph Loeb",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+					"name": "Wade von Grawbadger",
+					"role": "inker (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+					"name": "Stuart Immonen",
+					"role": "penciler (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+					"name": "Dale Keown",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+					"name": "Nick Lowe",
+					"role": "editor"
+				}
+			],
+			"returned": 6
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/43488/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+					"name": "X-Men"
+				}
+			],
+			"returned": 1
+		},
+		"buyDate": "2014-11-24T01:59:16.453Z"
+	}
+]
